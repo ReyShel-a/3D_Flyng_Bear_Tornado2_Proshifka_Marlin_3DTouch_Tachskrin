@@ -1,4 +1,5 @@
 # 3D_Flyng_Bear_Tornado2_Proshifka_Marlin_3DTouch_Tachskrin
+Материнская плата: MKS GEN L v1.0
 Прошивка для 3д Принтера Flyng Bear Tornado2 с тачскрином и датчиком автоуровня 3DTouch
 
 ----------------------------------------------------------
